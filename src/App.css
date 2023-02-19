@@ -1,0 +1,20 @@
+.counter {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.counter .counter__value {
+  font-size: 5rem;
+  color: #61dafb;
+}
+.counter .counter__button {
+  margin: 0.5rem;
+  width: 7rem;
+  height: 2rem;
+  font-size: 1.5rem;
+}
